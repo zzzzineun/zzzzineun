@@ -19,7 +19,7 @@ My research interests follow two complementary directions:
 
 - **[Do Morals Guide How LLMs Think? The Role of Ethical Perspectives in General Problem Solving](https://aclanthology.org/2026.acl-long.2002/)** — ACL 2026 (Main Conference).
 - **[Exploring Working Memory Capacity in LLMs: From Stressors to Human-Inspired Strategies](https://aclanthology.org/2025.ijcnlp-long.93/)** — IJCNLP–AACL 2025 (Main Conference).
-- **Benchmarking Multimodal Large Language Models for Automated Clinical Reporting in Ultra-Widefield Fundus Photography: A Comparative Evaluation Study** — BMJ Open Ophthalmology (under review). [Conference abstract (APOIS 2026)](https://kosmeeting.org/abstract/2026_136/program/sub02_detail.html?en=2&num=8371) · [Code](https://github.com/zzzzineun/UWFBench).
+- **Benchmarking Multimodal Large Language Models for Automated Clinical Reporting in Ultra-Widefield Fundus Photography: A Comparative Evaluation Study** — BMJ Open Ophthalmology (under review). [Conference abstract (APOIS 2026)](https://kosmeeting.org/abstract/2026_136/program/sub02_ord.html?en=1&uid=845) · [Code](https://github.com/zzzzineun/UWFBench).
 - **CARE-R1: Clinical Adaptive Reweighting for Image-Demanding Questions** — arXiv preprint; under review at ARR.
 
 ## Research Projects
