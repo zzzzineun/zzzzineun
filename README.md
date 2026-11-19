@@ -2,7 +2,7 @@
 
 **Researcher | Clinical NLP & Multimodal AI**
 
-I am a researcher at Seoul National University Hospital (SNUH), interested in developing AI methods that address real-world clinical challenges.
+I am interested in developing AI methods that address real-world clinical challenges.
 
 My research interests include **Clinical NLP, Multimodal AI, Biomedical Informatics, and Human-Centered AI**.
 
