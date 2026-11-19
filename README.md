@@ -4,9 +4,6 @@
 
 Researcher at the **Seoul National University Hospital (SNUH)** Biomedical Research Institute and the **Language Technology Research Institute (LTRI)** at Hankuk University of Foreign Studies. I hold an M.S. in AI Convergence from HUFS.
 
-## About Me
-
-I am interested in human-centered AI research at the intersection of language science, medical informatics, and machine learning. My goal is to develop AI systems that are both methodologically reliable and useful in real clinical settings.
 
 ## Research Interests
 
