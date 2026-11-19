@@ -1,4 +1,4 @@
-# Eunjin Hong
+# Eunjin Grace Hong
 
 **Researcher | Clinical NLP & Multimodal AI**
 
